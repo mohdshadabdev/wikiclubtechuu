@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight, Play, Pause } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 const slideImages = [
-  "https://media.licdn.com/dms/image/v2/D5622AQEQBfoXqECrrg/feedshare-shrink_800/B56ZWQcYyqHsAg-/0/1741885140543?e=1756944000&v=beta&t=xB8K2OsHxuwICl7sRxlCkOUZ-kyGKvSeTZvRaryvHhg",
+  "https://i.ibb.co/PGMnV9Qr/Screenshot-2025-08-11-104937.png",
   "https://media.licdn.com/dms/image/v2/D5622AQFiOO-zPNsJ9g/feedshare-shrink_2048_1536/B56ZWQcYl.HoA8-/0/1741885117694?e=1756944000&v=beta&t=aqT9QrfevMXm1K6SwJswQL8MNsABu9NZJ_EsUNFTC8k",
   "https://media.licdn.com/dms/image/v2/D5622AQGi-8wl3-c3Zg/feedshare-shrink_1280/B56ZV_1jEcGoAk-/0/1741606500420?e=1756944000&v=beta&t=sLdl2ThoPJB8zTaHvvQ8tAR7fMAamF67ZIlEcvZWDzI",
   "https://media.licdn.com/dms/image/v2/D5622AQF4htQnts-6wQ/feedshare-shrink_1280/B56ZV_1jEpHoAk-/0/1741606501092?e=1756944000&v=beta&t=B-hQquqFUAWIS6ycfejNLK1VII96i9Bpn1ptNQT8N1o",
