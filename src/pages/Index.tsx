@@ -51,7 +51,7 @@ const Index = () => {
             className="text-center mb-12"
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6 font-poppins bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent animate-pulse">
-              Shivam Shadab ka beta hai
+              About Wiki Club Tech — United University
             </h2>
             <div className="max-w-4xl mx-auto">
               <p className="text-lg text-foreground/80 mb-6 leading-relaxed">
